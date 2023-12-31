@@ -47,6 +47,11 @@ plt.show()
 ```
 
 ## Output
+![code](https://github.com/Loknaath-sec/Univariate-Linear-Regression/assets/145742558/bdee407e-f84c-44ba-a215-b20571887edb)
+<br/>
+![image](https://github.com/Loknaath-sec/Univariate-Linear-Regression/assets/145742558/4b19b7e7-024c-4215-a20d-7c250167b133)
+<br/>
+
 ![9(a)](https://github.com/Loknaath-sec/Univariate-Linear-Regression/assets/145742558/cd82c7dd-c78e-450d-9c4a-69ad9ddc1ef7)
 </br>
 ![9(b)](https://github.com/Loknaath-sec/Univariate-Linear-Regression/assets/145742558/6aebb5c4-5f0e-4a23-808a-9992100463c1)
